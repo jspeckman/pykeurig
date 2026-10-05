@@ -4,7 +4,8 @@ from enum import Enum, IntFlag
 
 # Headers
 HEADER_USER_AGENT = "K-Connect/5663 CFNetwork/1390 Darwin/22.0.0"
-HEADER_OCP_SUBSCRIPTION_KEY = "6e2ad707ae5249089f9dbf8ed011c38c"
+#HEADER_OCP_SUBSCRIPTION_KEY = "6e2ad707ae5249089f9dbf8ed011c38c"
+HEADER_OCP_SUBSCRIPTION_KEY = "7a278473f01745d99c1b1c2692c5a110"
 
 # API Values
 API_URL = "https://iot.keurig.com/connected-platform/"
